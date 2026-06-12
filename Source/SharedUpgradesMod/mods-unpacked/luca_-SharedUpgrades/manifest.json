@@ -1,0 +1,15 @@
+{
+  "name": "SharedUpgrades",
+  "namespace": "luca_",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com",
+  "description": "Shares all keeper upgrades (speed, drill, carrying) between players in coop.",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "authors": ["luca_"],
+      "compatible_mod_loader_version": ["7.0.1"],
+      "compatible_game_version": ["5.0.0"]
+    }
+  }
+}
